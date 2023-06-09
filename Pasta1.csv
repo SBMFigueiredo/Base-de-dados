@@ -1,4 +1,4 @@
-Y;Carro (C) ou caminhão (T);Deslocamento em pés cúbicos;Potência máxima;Código do sistema de direção;Peso equivalente de teste;Razão de compressão;Razão de eixo;Razão vmvv (velocidade do motor versus velocidade do veículo a 75 km/h)
+Y;X1;X2;X3;X4;X5;X6;X7;X8
 30,8;C;215;253;4;4500;9,9;3,07;30,9
 32,5;T;201;180;F;4500;9,3;2,49;32,3
 35,4;C;196;168;R;3375;10;3,27;37,1
